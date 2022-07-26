@@ -5,3 +5,5 @@ ROSS
 Phoebe
 Rachael
 Monica
+Rico
+Jibo
