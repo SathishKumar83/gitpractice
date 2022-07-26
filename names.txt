@@ -2,3 +2,6 @@ KEVIN
 CHANDLER
 JOEY
 ROSS
+Phoebe
+Rachael
+Monica
